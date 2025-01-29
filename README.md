@@ -7,4 +7,4 @@ lock systems.
 
 
 # Members
-Sankalpa Dutta, Shamayita Moitra, Akash Ghara, Sukanya Dey
+Sankalpa Dutta, Shamayita Moitra, Sukanya Dey
